@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeghie.rxdx.com.br/sitemap.xml
